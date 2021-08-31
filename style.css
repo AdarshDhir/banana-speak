@@ -1,0 +1,146 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap'); */
+@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+
+:root {
+    --primary-color: #828282;
+}
+
+body {
+    font-family: 'Game of Thrones', sans-serif;
+    margin: 0px;
+    background-image: url('img/mauricio-santos-N1gFsYf9AI0-unsplash.jpg');
+    background-size: cover;
+    background-position: 50% 0;
+
+}
+
+
+/* 
+.dothraki { */
+/* margin: 0px;
+    /* position: relative; */
+/* padding: 0% 20%;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+    width: 1520px; 
+    
+}
+
+/* .head-img {}
+
+
+.txt1 {
+    font-size: larger;
+    /* position: absolute; 
+text-align: center;
+padding: 00% 10%;
+/* top: 40%;
+    left: 48%; 
+ background-image: url('../img/Vaes-Dothrak-in-Game-of-Thrones-Dothraki-City.jpg');
+/* background-repeat: no-repeat; */
+/* background-position: center; 
+background-size: cover;
+font-size: xx-large;
+opacity: 0.8;
+}
+
+/* .head-img {
+    /* position: relative; 
+} */
+
+/* .head-img:before {
+    content: ' ';
+    display: block;
+    /* position: absolute; */
+/* top: 0;
+    width: 100%;
+    height: 15%;
+    background-image: url('../img/Vaes-Dothrak-in-Game-of-Thrones-Dothraki-City.jpg');
+
+    background-position: 50% 0;
+    background-size: cover;
+    opacity: 0.8;
+
+} */
+
+.head-img {
+    font-size: xx-large;
+    /* padding: 2px; */
+    background-image: url('../img/Vaes-Dothrak-in-Game-of-Thrones-Dothraki-City.jpg');
+    background-position: 50% 0;
+}
+
+textarea::placeholder {
+    color: #8ebf42;
+    font-family: 'Game of Thrones', sans-serif;
+
+}
+
+#L-head {
+    /* display: grid;
+    place-items: center; */
+    /* margin: 37rem; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 200px; */
+    /* width: 300px; */
+    border: 3px solid white;
+    padding: 0.2rem 0.5rem;
+    /* border: 2px; */
+    font-weight: bolder;
+    font-size: x-large;
+    background-image: url('../img/Vaes-Dothrak-in-Game-of-Thrones-Dothraki-City.jpg');
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#btn-translate {
+    background-color: black;
+    padding: 0.2rem 0.5rem;
+    font-weight: bolder;
+    font-family: 'italic';
+}
+
+.footer {
+
+    padding: 2rem 1rem;
+    text-align: center;
+    border-top-left-radius: 2rem;
+    color: white;
+    /* font-family: fantasy; */
+
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    /* color:white; */
+}
+
+.list-non-bullet {
+    list-style: none;
+
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
